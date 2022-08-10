@@ -1,0 +1,60 @@
+.brand {
+    font-size: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.brandList {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+.productImgs {
+    height: 250px;
+    width: 250px;
+    margin: 5px;
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-around;
+    
+}
+.brandTitle {
+    font-size: 60px;
+}
+.brandImg {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;    
+}
+.medusa {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.layout {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.packaging {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.template {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.products {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}

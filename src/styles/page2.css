@@ -1,0 +1,37 @@
+.phan2 {
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+    /* margin: 20px; */
+}
+.bio {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#myAvatar{
+    height: 350px;
+    width: 350px;
+    border: solid black;
+}
+.info {
+    border: solid black;
+    width: 500px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+
+}
+.info p {
+    font-size: 25px;
+    margin: 10px;
+}
+.experience {
+    text-align: center;
+    border: solid black;
+    min-width: 500px;
+    min-height: 700px;
+}

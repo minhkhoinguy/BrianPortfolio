@@ -1,0 +1,19 @@
+.phan1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+#myPhoto {
+    height:500px;
+    width:500px;
+    border: solid black;
+    border-radius: 10px;
+
+}
+
+#slogan {
+    color: brown;
+    font-size: 150px;
+}

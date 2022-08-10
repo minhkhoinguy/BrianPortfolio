@@ -1,0 +1,10 @@
+.phan3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#HieuUng {
+    margin: 50px 30px 50px 30px;
+    width: 1300px;
+    height: auto;
+}
